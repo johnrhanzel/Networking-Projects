@@ -23,3 +23,25 @@ The following requirements should be met:
 
 •	The link between routers R0, R1, R2, R3 and R4 will require IP addresses at each end of the link.
 
+
+# Overview of Startup B
+Part 1. 
+You are given the IP Address: 222.15.1.0 /27
+
+Determine the following:
+
+1. New Subnet Mask
+
+2. No. of Subnets
+
+3. No. of usable hosts per subnet
+
+4. Subnet Size
+
+5. Network ID, Broadcast ID, Usable Hosts ID Range
+
+Part 2.
+
+Refer to your answer in Part 1, item 1 for the IPv4 addressing specifications. 
+
+Choose only three (3)subnets of your choice to design and configure a small cafeteria network using any Cisco router.
